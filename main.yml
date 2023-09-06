@@ -2,7 +2,7 @@
 # This playbook installs an LDAP server to work with tower
 
 - hosts: all
-  sudo: True
+  #sudo: True
   remote_user: ubuntu
   gather_facts: True
 
