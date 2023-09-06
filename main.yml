@@ -3,7 +3,7 @@
 
 - hosts: all
   #sudo: True
-  remote_user: ubuntu
+  remote_user: administrator
   gather_facts: True
 
 #
